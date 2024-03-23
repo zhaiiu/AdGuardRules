@@ -1,0 +1,15 @@
+cn.pornhub.com###hd-leftColVideoPage > div.video-wrapper:first-child > div.lxscr.lxscu.hd.clear.original:nth-child(4)
+cn.pornhub.com###hd-rightColVideoPage > div.lxscv.clearfix:first-child > div:last-child > div
+bilibili.com###slide_ad
+bilibili.com###activity_vote
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+youtube.com###player-ads
+wiki.mbalib.com###p-ad-gg
+wiki.mbalib.com###ad-fold
+wiki.mbalib.com###ke-lay-in-wiki
+wiki.mbalib.com###immobilization-ad
+wiki.mbalib.com###ad_wikiLeft3
+wiki.mbalib.com###column-title > div.topbar > div.topbar-box > div.site-nav-r:last-child > div.topbar-vip:nth-child(2)
+wiki.mbalib.com###recommend-bar > div.clearfix:first-child > div.ds-btn-lay:nth-child(2)
+wiki.mbalib.com###announcement
+wiki.mbalib.com###qrcode_wiki
